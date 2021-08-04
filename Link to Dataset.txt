@@ -1,0 +1,8 @@
+Link to Multi-Output CNN Dataset:
+
+Original: https://www.kaggle.com/jangedoo/utkface-new
+Backup: https://www.kaggle.com/muhammadardiputra/utkface-dataset
+
+Link to Aesop Fables Dataset:
+
+https://github.com/itayniv/aesop-fables-stories/blob/master/public/aesopFables.json
